@@ -51,29 +51,29 @@ Ao longo dos anos, observa-se que o preço das casas permanecem em um uma faixa,
 
 Além disso, o preço médio das cassas vem aumentando durante as últimas semanas do ano de 2015, o que indica uma valorização e oportunidade para venda dos imóveis.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f58da132-81fa-4cea-ac65-d9448dafa4d8/Untitled.png)
+![price_per_week](https://user-images.githubusercontent.com/101605197/173474988-d554acb1-fae6-49de-83ce-dca5246c912a.png)
 
 ### Variação do preço de acordo com os meses do ano
 
 Observou-se que a mediana dos preços, quando separada em meses, tende a ser maior entre os meses de abril e julho (período das estações quentes), enquanto os menores preços são nos meses de janeiro, fevereiro, novembro e dezembro (período das estações mais frias).
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b628bd55-f16f-4dd2-b51b-816995206383/Untitled.png)
+![price_per_month](https://user-images.githubusercontent.com/101605197/173475026-82e3ebea-b878-4c99-904d-cec80d2f6448.png)
 
 ### Localização dos imóveis de acordo com o nível
 
 No mapa abaixo estão localizados os imóveis e sua cor de acordo com a legenda, indica o nível. É interessante observar que a maioria dos imóveis com um nível maior estão localizados na parte central e norte do mapa e estão predominantemente próximos a água.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1fc8735-300a-4d6d-b432-81b39ef97d66/Untitled.png)
+![houses_map](https://user-images.githubusercontent.com/101605197/173475043-8bf6db49-c847-4e60-9623-a29ec6441e53.png)
 
 Sendo assim, torna-se interessante avaliar algumas características sobre os imóveis com vista para água.
 
 ### Casas com vista para água e suas características
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0233a5c4-c4a1-403e-ad37-e7659f93175c/Untitled.png)
+![waterfront_price](https://user-images.githubusercontent.com/101605197/173475075-9148d68e-b954-4737-a573-f871574ba6ef.png)
 
 De acordo com os dados, os imóveis que possuem vista para água possuem um preço total 3 vezes maior do que as casas que não possuem.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0897cec-6e2a-445e-92e2-8156219219a9/Untitled.png)
+![waterfront_level](https://user-images.githubusercontent.com/101605197/173475105-bcb5ad54-a2a1-434a-a7f1-ffabb93090e1.png)
 
 Além disso, cerca de 83% das casas com vista para água são nível 3 (maior da base de dados).
 
