@@ -83,6 +83,8 @@ O aplicativo foi criado visando dar aos diretores e time de vendas, uma forma ma
 
 Por isso, ele foi pensado em ser algo simples, que facilitasse a experiência do usuário e trouxesse também as informações de preço, mapa e o overview geral do dataset.
 
+Link para o app: https://house-rocket-app-dashboard.herokuapp.com
+
 ## Resultados Financeiros
 
 Os estudos indicaram que vender as casas durante o momento certo, ou seja, com valorização de 10%, irá manter um preço médio de U$ 594.091,87 por casa.
