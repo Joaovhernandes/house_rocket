@@ -2,7 +2,7 @@
 
 A House Rocket é uma empresa situada nos Estados Unidos, na cidade de Seattle e atua no setor imobiliário. Atualmente, é responsável por empregar mais de 100 pessoas em seu escritório e seu negócio é baseado na compra e venda de imóveis.
 
-O setor imobiliário é um dos mais lucrativos e exige um conhecimento e conjunto de técnicas avançadas para que se possa obter lucro em suas vendas e descontos em nas compras. No último ano, a empresa teve um faturamento de U$ 142.560.000,00, tendo uma venda média de uma casa por dia (22 dias por mês ou 264 dias por ano) a um preço médio de U$ 540.083,52. Nesse ano, a House Rocket deseja manter uma mesma quantidade média de casas vendidas, porém, aumentar o lucro, sendo assim, deseja comprar e vender a casa no momento certo. Para isso, um estudo de Ciência de Dados foi solicitado.
+O setor imobiliário é um dos mais lucrativos e exige um conhecimento e conjunto de técnicas avançadas para que se possa obter lucro em suas vendas e descontos em nas compras. No último ano, a empresa teve um faturamento de 142.560.000,00 de dólares, tendo uma venda média de uma casa por dia (22 dias por mês ou 264 dias por ano) a um preço médio de 540.083,52 de dólares. Nesse ano, a House Rocket deseja manter uma mesma quantidade média de casas vendidas, porém, aumentar o lucro, sendo assim, deseja comprar e vender a casa no momento certo. Para isso, um estudo de Ciência de Dados foi solicitado.
 
 ## O Problema de Negócio
 
@@ -87,9 +87,9 @@ Link para o app: https://house-rocket-app-dashboard.herokuapp.com
 
 ## Resultados Financeiros
 
-Os estudos indicaram que vender as casas durante o momento certo, ou seja, com valorização de 10%, irá manter um preço médio de U$ 594.091,87 por casa.
+Os estudos indicaram que vender as casas durante o momento certo, ou seja, com valorização de 10%, irá manter um preço médio de 594.091,87 de dólares por casa.
 
-Se for mantida a mesma quantidade de casas vendidas por dia, o faturamento será de U$ 156.840.253,68, tendo um lucro de U$14.280.253,68.
+Se for mantida a mesma quantidade de casas vendidas por dia, o faturamento será de 156.840.253,68 de dólares, tendo um lucro de 14.280.253,68 de dólares.
 
 ## Conclusão
 
