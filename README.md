@@ -47,7 +47,7 @@ Durante a execução do projeto, alguns pontos foram levantados e respondidos co
 
 Ao longo dos anos, observa-se que o preço das casas permanecem em um uma faixa, porém, é interessante observar que durante os meses 10 e 11 do ano de 2014 houve um pico no preço médio das casas.
 
-https://github.com/Joaovhernandes/house_rocket/issues/2#issue-1270139498
+![price_per_year](https://user-images.githubusercontent.com/101605197/173474498-02396326-0c71-4b34-b1f6-9e13b81f58bd.png)
 
 Além disso, o preço médio das cassas vem aumentando durante as últimas semanas do ano de 2015, o que indica uma valorização e oportunidade para venda dos imóveis.
 
