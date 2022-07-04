@@ -83,7 +83,7 @@ O aplicativo foi criado visando dar aos diretores e time de vendas, uma forma ma
 
 Por isso, ele foi pensado em ser algo simples, que facilitasse a experiência do usuário e trouxesse também as informações de preço, mapa e o overview geral do dataset.
 
-Link para o app: https://house-rocket-app-dashboard.herokuapp.com
+Link para o app: https://house-rocket-eda-dashboard.herokuapp.com
 
 ## Resultados Financeiros
 
